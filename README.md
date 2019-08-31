@@ -1,3 +1,3 @@
 git
 
-For git stuff...
+A git repo about git - inception!
