@@ -1,3 +1,3 @@
 git
 
-This is just a sandbox for git things
+Let's talk about git pull --rebase
